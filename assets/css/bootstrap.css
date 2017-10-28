@@ -1156,7 +1156,7 @@ pre code {
 	width: 750px;
 	height: auto;
   }
-  .container_bg {
+  .container_bg2 {
 	width: 750px;
 	height: auto;
   }
@@ -1336,7 +1336,7 @@ pre code {
   .container_privacy {
     width: 970px;
   }
-  .container_bg {
+  .container_bg2 {
     width: 970px;
   }
   .container {
@@ -1511,7 +1511,7 @@ pre code {
 }
 
 @media (min-width: 1200px) {
-  .container_bg {
+  .container_bg2 {
     width: 1170px;
   }
   .container_privacy {
