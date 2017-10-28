@@ -40,6 +40,19 @@ p {
     margin-bottom: 25px;
 }
 
+/*p1 {
+	line-height: 28px;
+	margin-bottom: 25px;
+	text-align: left;
+	font-weight: 700;
+}
+
+p2 {
+	line-height: 28px;
+	margin-bottom: 25px;
+	text-align: left;
+}*/
+
 credits {
 	color: white;
 	text-align: center;
@@ -164,12 +177,32 @@ a:after {
 	text-shadow: 1px 1px #440000;
 }
 
+#hello privacy {
+	color: #DCDCDC;
+	font-weight: lighter;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 36px;
+	text-shadow: 1px 1px #440000;
+}
+
 /* Green */
 #green {
 	/*background-color: #74cfae;*/
 	background-color: #FF5151;
 	padding-top: 100px;
 	margin-bottom: 0px;
+}
+
+#green h1 {
+	color: white;
+	font-weight: 400;
+	font-size: 32px;
+}
+
+#green h2 {
+	color: white;
+	font-weight: 400;
+	font-size: 26px;
 }
 
 #green h3 {
@@ -182,6 +215,18 @@ a:after {
 	color: white;
 	font-weight: 400;
 	font-size: 20px;
+}
+
+#green p1 {
+	color: white;
+	font-weight: 700;
+	font-size: 18px;
+}
+
+#green p2 {
+	color: white;
+	font-weight: 400;
+	font-size: 16px;
 }
 
 /* Skills */
