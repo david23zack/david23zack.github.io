@@ -1,0 +1,12 @@
+{
+"companyName": "Three16",
+"productName": "Do you know for sure?",
+"dataUrl": "eedewasa.data.unityweb",
+"wasmCodeUrl": "eedewasa.wasm.code.unityweb",
+"wasmFrameworkUrl": "eedewasa.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
