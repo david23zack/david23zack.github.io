@@ -14,98 +14,23 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "/images/388bf9a3-f85a-d183-cb73-55b66b092ae8.webPlatform.png",
-            "sizes": "44x44",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/97f68f73-5100-ef9e-2a08-605ad7fe90b3.webPlatform.png",
-            "sizes": "48x48",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/windows10/SplashScreen.scale-200.png.png",
-            "sizes": "1240x600",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/0823b17d-9604-b581-0a65-e527e8b35e94.webPlatform.png",
-            "sizes": "300x300",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/f8273d6d-85e0-aec7-2de9-9d54144f556b.webPlatform.png",
-            "sizes": "150x150",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/f269f8a9-d2cd-c456-8af5-1d87d7a43c76.webPlatform.png",
-            "sizes": "88x88",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/bf435310-82e8-e3d5-78d3-2077fc589a05.webPlatform.png",
-            "sizes": "24x24",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/6323db80-9ed6-b282-d839-42eec2f4c8ad.webPlatform.png",
-            "sizes": "50x50",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/9eb38c2c-f4fb-90eb-3112-918fedef2a90.webPlatform.png",
-            "sizes": "620x300",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/4b106e57-61af-ba24-5bb6-3122596cfd63.webPlatform.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/538925ef-0b50-96cc-67ae-1cbf6ae6ded6.webPlatform.png",
-            "sizes": "144x144",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/7cb3a477-d16a-aa14-2efc-051e4a72fa49.webPlatform.png",
-            "sizes": "96x96",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/107f1a9a-f74d-23dc-b1f9-e7d83b21a1d2.webPlatform.png",
-            "sizes": "72x72",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/c4b03136-0791-c546-579b-bc6c6d9e487b.webPlatform.png",
-            "sizes": "36x36",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "src": "/images/icon-1024x1024.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "/images/096c8f50-5797-9c5b-1d25-c9a0d4d64e20.webPlatform.png",
-            "sizes": "180x180",
+            "src": "/images/icon-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "/images/42946c48-5794-17e4-6569-21c8baf59b5c.webPlatform.png",
-            "sizes": "152x152",
+            "src": "/images/icon-192x192.png",
+            "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/images/e5efe054-404a-7dcd-5e77-516f52bd5f9b.webPlatform.png",
-            "sizes": "120x120",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/bb709849-0aa1-d5f2-b568-34fb4f852857.webPlatform.png",
-            "sizes": "76x76",
+            "src": "/images/icon-144x144.png",
+            "sizes": "144x144",
             "type": "image/png"
         }
     ]
