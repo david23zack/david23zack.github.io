@@ -1,7 +1,7 @@
 {
     "name": "Do you know for sure?",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "./eedewasa/",
     "short_name": "Do You Know",
     "description": "Helps you spread the Gospel",
     "orientation": "landscape",
@@ -10,22 +10,22 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "./eedewasa/images/icon-1024x1024.png",
+            "src": "/images/icon-1024x1024.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "./eedewasa/images/icon-512x512.png",
+            "src": "/images/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "./eedewasa/images/icon-192x192.png",
+            "src": "/images/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "./eedewasa/images/icon-144x144.png",
+            "src": "/images/icon-144x144.png",
             "sizes": "144x144",
             "type": "image/png"
         }
