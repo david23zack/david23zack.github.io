@@ -1,7 +1,7 @@
 {
     "name": "Do you know for sure?",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "./eedewasa/",
     "short_name": "Do You Know",
     "description": "Helps you spread the Gospel",
     "orientation": "landscape",
