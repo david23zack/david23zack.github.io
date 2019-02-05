@@ -1,7 +1,8 @@
 {
     "name": "Do you know for sure?",
     "display": "standalone",
-    "start_url": "/eedewasa/",
+    "scope": "/eedewasa/index.html",
+    "start_url": "https://david23zack.github.io/eedewasa/index.html",
     "short_name": "Do You Know",
     "description": "Helps you spread the Gospel",
     "orientation": "landscape",
